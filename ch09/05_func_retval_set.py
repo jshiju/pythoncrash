@@ -3,11 +3,11 @@
 def get_data_tup():
     return (2,3)
 
-# return tupple
+# return set
 def get_data_set():
     return {'math', 'stat'}
 
-# return tupple
+# return dictionary
 def get_data_dict():
     return {'subject': 'math', 'subject': 'stat'}
 

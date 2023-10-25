@@ -7,7 +7,7 @@ print(numlist)
 
 #newlist = sorted(numlist)
 newlist = numlist
-print((sorted(numlist)).reverse())
+print((sorted(numlist)).reverse())  # returns None
 print("Orginal: " + ','.join(str(e) for e in numlist))
 print("Sorted: " + ','.join(str(e) for e in newlist))
 
