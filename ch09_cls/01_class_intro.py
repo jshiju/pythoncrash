@@ -9,7 +9,7 @@ class Vehicle:
 
 def main():
     print("This is from main")
-    v = Vehicle('suzuli', 2023)
+    v = Vehicle('suzuki', 2023)
     print(v.describe())
 
 main()
